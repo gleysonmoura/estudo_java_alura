@@ -3,7 +3,7 @@ package bytebank_composto;
 public class Conta {
 	// declaração de variaveis
 	
-	double saldo;
+	private double saldo;
 	int agencia;
 	int numero;
 	Cliente titular;
@@ -33,5 +33,11 @@ public class Conta {
 		}
 			return false;
 	}
+	// pegar o saldo da conta
+	public double getSaldo(){
+		return this.saldo;
+	}
+	
+	// altera o saldo da conta
 	
 }
