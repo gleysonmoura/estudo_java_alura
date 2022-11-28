@@ -1,4 +1,3 @@
-package bytebank_herdado;
 
 public class TesteFuncionario {
 
@@ -6,7 +5,9 @@ public class TesteFuncionario {
 		
 		
 		Cliente cliente = new Cliente();
-				
+		
+		
+		
 		Gerente nico = new Gerente();
 		nico.setNome("Nico Steppat");
 		nico.setCpf("223355646-9");
