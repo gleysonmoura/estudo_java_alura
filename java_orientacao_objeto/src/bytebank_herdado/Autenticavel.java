@@ -1,3 +1,4 @@
+package bytebank_herdado;
 
 //contrato Autenticavel
 	//quem assina esse contrato, precisa implementar

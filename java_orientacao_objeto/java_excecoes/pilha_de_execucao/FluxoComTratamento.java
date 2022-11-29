@@ -1,3 +1,5 @@
+package pilha_de_execucao;
+
 public class FluxoComTratamento {
 
 	public static void main(String[] args) {

@@ -1,3 +1,5 @@
+package bytebank_encapsulado;
+
 public class TesteContas {
 
 	public static void main(String[] args) {

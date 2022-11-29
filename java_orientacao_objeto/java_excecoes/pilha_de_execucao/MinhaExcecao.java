@@ -1,3 +1,4 @@
+package pilha_de_execucao;
 
 public class MinhaExcecao extends Exception{ //checked
 	
